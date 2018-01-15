@@ -1,2 +1,1 @@
-# Huai.so
-坏搜不坏——坏了么？搜一下！
+# GNU Lesser General Public License v3.0
